@@ -123,7 +123,7 @@ def loading_bar(percentage):
     bar_length = 20
     block = int(round(bar_length * percentage))
     progress = "[" + "." * block + " " * (bar_length - block) + "]"
-    return f"Unix-Python install (32mb)  {progress} {percentage:.0%}"
+    return f"Unix-Python install  {progress} {percentage:.0%}"
 
 def run_loading():
     for i in range(101):
