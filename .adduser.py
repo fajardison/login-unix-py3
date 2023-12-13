@@ -151,7 +151,7 @@ while True:
 
         if pengguna.konfirmasi_informasi():
             pengguna.simpan_ke_csv()
-            print("Informasi pengguna disimpan ke .db.csv.")
+            print("")
         else:
             print("Informasi pengguna tidak disimpan.")
 
