@@ -9,9 +9,9 @@ if [ -f "$setup_path" ]; then
     rm "$setup_path"
     echo " "
     echo "SELAMAT DATANG ADMIN."
-    echo "silahkan ketikan 'install' untuk menginstall server unix-py3"
-    echo "ketikan 'run' untuk menjalankan server unix-py3"
+    echo "jalankan perintah 'install' untuk menginstall source code"
+    echo "setelah menginstal source code jalankan perintah 'run' untuk menjalankan unix-py3"
     echo " "
 else
-    echo "system error unix-py3 not found"
+    echo "system error login-unix-py3 not found"
 fi
