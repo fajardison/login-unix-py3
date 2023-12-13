@@ -1,8 +1,6 @@
 # login-unix-py3
 Membuat fitur login pada termux menggunakan python 3
 
-
-
 (========= LOGIN TERMUX =========)
      YT Channel MOBILE POPULER
          by Dimas Fajar
@@ -15,13 +13,14 @@ Install tools di termux
 • pkg install python ( python 3 )
 • pkg install git
 • git clone https://github.com/fajardison/login-unix-py3.git
+
 instalasi
 • cd login-unix-py3
 • python setup.py
 • cd ~
-• source ~/.bash ( masuk ke sebagi administrator )
-• install ( menginstall server unix-python)
-• run ( menjalankan server )
+• source ~/.bash
+• install
+• run
 
 command
 • adduser
