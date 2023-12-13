@@ -13,14 +13,13 @@ Membuat fitur login pada termux menggunakan python 3
 Install tools di termux
 • pkg update
 • pkg install python ( python 3 )
-• termux-setup-storage ( izinkan akses direktori perangkat )
-• cp -r /path/to/your_folder/login-unix-py3 ~
-
+• pkg install git
+• git clone https://github.com/fajardison/login-unix-py3.git
 instalasi
 • cd login-unix-py3
 • python setup.py
 • cd ~
-• source ~/.bash ( masuk ke sebagai administrator )
+• source ~/.bash ( masuk ke sebagi administrator )
 • install ( menginstall server unix-python)
 • run ( menjalankan server )
 
