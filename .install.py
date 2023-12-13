@@ -3,7 +3,7 @@ import os, time
 bashsh_content = """# .bash.sh
 
 alias me='python ~/.me.py'
-alias readme='cat ~/.README.md'
+alias readme='cat ~/README.md'
 alias adduser='python ~/.adduser.py'
 alias login='source ~/.profile.sh'
 alias chuser='python ~/.user.py'
