@@ -8,10 +8,6 @@ by Dimas Fajar
 
 ---
 
-Jangan lupa SUBSCRIBE ya ;)
-
----
-
 ## Install Tools In Termux  
 - `pkg update && pkg upgrade`  
 - `pkg install python`  
@@ -19,12 +15,12 @@ Jangan lupa SUBSCRIBE ya ;)
 - `git clone https://github.com/fajardison/login-unix-py3.git`  
 
 ## Instalasi  
-1. `cd login-unix-py3`  
-2. `python setup.py`  
-3. `cd ~`  
-4. `source ~/.bash`  
-5. `install`  
-6. `run`  
+- `cd login-unix-py3`  
+- `python setup.py`  
+- `cd ~`  
+- `source ~/.bash`  
+- `install`  
+- `run`  
 
 ## Use Of Commands  
 - `adduser`  
