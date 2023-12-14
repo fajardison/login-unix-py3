@@ -3,7 +3,6 @@ Membuat fitur login pada termux menggunakan python 3
 
 (========= LOGIN TERMUX =========)
      YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=DNT7hqpYVkofx49l)
-     
           by Dimas Fajar
 (================================)
     Jangan lupa SUBSCRIBE ya ;)
