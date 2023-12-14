@@ -32,5 +32,5 @@ by Dimas Fajar
 - `lst`
 
 ## Installation Tutorial  
-    [![Fitur Login Termux No Root]](https://youtu.be/juqzU7D7vHU?si=-CH4P5YudzYENOVf)
+    <iframe width="560" height="315" src="https://youtu.be/juqzU7D7vHU?si=-CH4P5YudzYENOVf" frameborder="0" allowfullscreen></iframe>
     
