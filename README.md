@@ -4,7 +4,7 @@ Membuat fitur login pada Termux menggunakan Python 3
 <center>
 
 (========= **LOGIN TERMUX** =========)  
-YT Channel MOBILE POPULER  
+YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=36AMtbSdtAdiVJfH)  
 by Dimas Fajar  
 (================================)  
 Jangan lupa SUBSCRIBE ya ;)  
@@ -12,7 +12,7 @@ Jangan lupa SUBSCRIBE ya ;)
 
 </center>
 
-# Install tools di Termux  
+# Install Tools In Termux  
     • pkg update && pkg upgrade  
     • pkg install python  
     • pkg install git  
