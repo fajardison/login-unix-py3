@@ -2,7 +2,7 @@
 
 Membuat fitur login pada Termux menggunakan Python 3
 
-**LOGIN TERMUX**
+**LOGIN TERMUX**  
 YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=36AMtbSdtAdiVJfH)  
 by Dimas Fajar
 
@@ -30,4 +30,7 @@ by Dimas Fajar
 - `user`  
 - `pass`  
 - `lst`
-- 
+
+## Installation Tutorial  
+    [![SUBSCRIBE](https://example.com/subscribe-button.png)](https://youtu.be/juqzU7D7vHU?si=-CH4P5YudzYENOVf)
+    
