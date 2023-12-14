@@ -31,6 +31,4 @@ by Dimas Fajar
 - `pass`  
 - `lst`
 
-## Installation Tutorial  
-    <iframe width="560" height="315" src="https://youtu.be/juqzU7D7vHU?si=-CH4P5YudzYENOVf" frameborder="0" allowfullscreen></iframe>
-    
+
