@@ -8,13 +8,12 @@ by Dimas Fajar
 
 ---
 
-'''bash
 ## Install Tools In Termux  
 - `pkg update && pkg upgrade`  
 - `pkg install python`  
 - `pkg install git`  
 - `git clone https://github.com/fajardison/login-unix-py3.git`  
-'''
+
 ## Instalasi  
 - `cd login-unix-py3`  
 - `python setup.py`  
