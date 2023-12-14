@@ -1,14 +1,16 @@
-# login-unix-py3  
-Membuat fitur login pada Termux menggunakan Python 3  
+# login-unix-py3
+Membuat fitur login pada Termux menggunakan Python 3
 
 <center>
-(========= LOGIN TERMUX =========)  
-    YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=Zyc7p4GSagabFNxI)  
-          by Dimas Fajar  
-(================================)  
-    Jangan lupa SUBSCRIBE ya ;)  
-(================================)  
-</center>  
+
+(========= **LOGIN TERMUX** =========)
+YT Channel MOBILE POPULER
+by Dimas Fajar
+(================================)
+Jangan lupa SUBSCRIBE ya ;)
+(================================)
+
+</center>
 
 # Install tools di Termux  
     • pkg update && pkg upgrade  
