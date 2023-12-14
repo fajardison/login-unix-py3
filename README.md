@@ -14,7 +14,7 @@ Membuat fitur login pada Termux menggunakan Python 3
     • pkg install git  
     • git clone https://github.com/fajardison/login-unix-py3.git  
 
-# instalasi  
+# Instalasi  
     • cd login-unix-py3  
     • python setup.py  
     • cd ~  
@@ -22,7 +22,7 @@ Membuat fitur login pada Termux menggunakan Python 3
     • install  
     • run  
 
-# Useage  
+# Use Of Commands  
     • adduser  
     • login  
     • me  
