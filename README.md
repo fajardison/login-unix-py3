@@ -3,12 +3,12 @@ Membuat fitur login pada Termux menggunakan Python 3
 
 <center>
 
-(========= **LOGIN TERMUX** =========)
-YT Channel MOBILE POPULER
-by Dimas Fajar
-(================================)
-Jangan lupa SUBSCRIBE ya ;)
-(================================)
+(========= **LOGIN TERMUX** =========)  
+YT Channel MOBILE POPULER  
+by Dimas Fajar  
+(================================)  
+Jangan lupa SUBSCRIBE ya ;)  
+(================================)  
 
 </center>
 
