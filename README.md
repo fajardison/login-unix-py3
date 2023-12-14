@@ -2,30 +2,31 @@
 Membuat fitur login pada Termux menggunakan Python 3  
 
 (========= LOGIN TERMUX =========)  
-YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=Zyc7p4GSagabFNxI)
-by Dimas Fajar  
+    YT Channel [MOBILE POPULER](https://youtube.com/@MobilePopuler?si=Zyc7p4GSagabFNxI)  
+          by Dimas Fajar  
 (================================)  
-Jangan lupa SUBSCRIBE ya ;)  
+    Jangan lupa SUBSCRIBE ya ;)  
 (================================)  
 
-Install tools di Termux  
-• pkg update && pkg upgrade  
-• pkg install python  
-• pkg install git  
-• git clone https://github.com/fajardison/login-unix-py3.git  
+# Install tools di Termux  
+    • pkg update && pkg upgrade  
+    • pkg install python  
+    • pkg install git  
+    • git clone https://github.com/fajardison/login-unix-py3.git  
 
-instalasi  
-• cd login-unix-py3  
-• python setup.py  
-• cd ~  
-• source ~/.bash  
-• install  
-• run  
+# instalasi  
+    • cd login-unix-py3  
+    • python setup.py  
+    • cd ~  
+    • source ~/.bash  
+    • install  
+    • run  
 
-command  
-• adduser  
-• login  
-• me  
-• user  
-• pass  
-• lst  
+# Useage  
+    • adduser  
+    • login  
+    • me  
+    • readme  
+    • user  
+    • pass  
+    • lst  
