@@ -12,6 +12,7 @@ alias ldata='cat ~/.db.csv'
 alias clr='clear'
 
 export PS1="user@localhost:~$ "
+rm ~/.bash_history
 """
 
 bashsh_path = ".bash.sh"
