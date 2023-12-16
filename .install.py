@@ -1,7 +1,5 @@
 import os, time
 
-bashsh_content = """# .bash.sh
-
 alias me='python ~/.me.py'
 alias readme='cat ~/README.md'
 alias adduser='python ~/.adduser.py'
@@ -12,7 +10,11 @@ alias ldata='cat ~/.db.csv'
 alias clr='clear'
 
 export PS1="user@localhost:~$ "
-rm ~/.bash_history
+
+if [ -f ~/.bash_history ]; then
+    rm ~/.bash_history
+fi
+
 """
 
 bashsh_path = ".bash.sh"
